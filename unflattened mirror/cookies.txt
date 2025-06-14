@@ -1,0 +1,17 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.w3.org	TRUE	/	FALSE	1999999999	__cf_bm	ZWc3GAynHoXl9tZtNmhrmoTa8R5Fm.xTMlgUqO1l..U-1749914285-1.0.1.1-1OgADHnidOIg5tNi5jfCBYH.9u2ajF7UzvWnpcgVXVg_m1zlmK1cVEZZM6mAqlAm0_ECay80CKQsxlOIqPqXhKD9LgJCbvCPL.D7MWbU.ls
+dropboxusercontent.com	TRUE	/	FALSE	1999999999	uc_session	OLN33OxQCDhwkrRASqAOssy3tE0ZVfKrTl6s3lFTMo1kniRnvABeQ1d7eUBZRbp1
+dl.dropboxusercontent.com	TRUE	/	FALSE	1999999999	SameSite	None
+.instagram.com	TRUE	/	FALSE	1999999999	csrftoken	pqgubvCwMbDZQqlKB-J3fW
+.youtube.com	TRUE	/	FALSE	1999999999	YSC	xPjfYOLJR_Y
+youtube.com	TRUE	/	FALSE	1999999999	__Secure-ROLLOUT_TOKEN	CMvnxer3s_-3bRCRp67mmvGNAxiRp67mmvGNAw%3D%3D
+.youtube.com	TRUE	/	FALSE	1999999999	VISITOR_INFO1_LIVE	4IWCceguF_Q
+.youtube.com	TRUE	/	FALSE	1999999999	VISITOR_PRIVACY_METADATA	CgJVUxIEGgAgZA%3D%3D
+www.youtube.com	TRUE	/	FALSE	1999999999	SameSite	none
+.twitter.com	TRUE	/	FALSE	1999999999	__cf_bm	3y_LYdHOWT_gvReGVsz_tGlNOMX4HuURTdUlTWIkkaM-1749914310-1.0.1.1-2P47ZY6VzK5QqIqty1mbJleY_8ccf4WFFVK._3yIZSycjVVma19.2yCIXF9ElouCRsnLND_udT5DFqe7XztYCdVdnIr2YIEL7XulBsC57_Y
+www.ranierespeaks.com	TRUE	/	FALSE	1999999999	crumb	BSyWv/tivX5LZThjZTU1ZGNjYTZmMmM1MGRjM2EzN2YwZWFkZjA4
+www.instagram.com	TRUE	/	FALSE	1999999999	SameSite	deleted
+.instagram.com	TRUE	/	FALSE	1999999999	mid	aE2SzAAEAAHoPTfIDhUL533VQUip
+www.instagram.com	TRUE	/	FALSE	1999999999	SameSite	None
+
